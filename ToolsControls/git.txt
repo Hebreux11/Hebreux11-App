@@ -1,0 +1,22 @@
+
+
+git remote add origin https://github.com/Hebreux11/Hebreux11-App.git
+
+ git config --global user.email "devhebreux11@gmail.com "
+  git config --global user.name "Hebreux11"
+
+  0852721927JDC3j
+
+  git init
+  git add .
+  git commit
+
+  git remote add origin https://github.com/Hebreux11/Hebreux11-App.git
+
+   git push origin main
+
+git config pull.rebase false   
+git config pull.rebase true    
+git config pull.ff only    
+
+   git push origin master
